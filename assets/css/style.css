@@ -1,0 +1,11 @@
+body {
+    
+    background-image: url(http://www.thinkgeek.com/images/products/zoom/jqtg_supernova_sphere.gif);
+    color:yellow;
+     }
+
+.img-responsive{
+
+	border: 10px ridge;
+    border-color: red;
+}
